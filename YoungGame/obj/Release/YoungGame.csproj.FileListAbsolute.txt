@@ -1,0 +1,5 @@
+E:\VS\Test\YoungGame\YoungGame\bin\Release\YoungGame.dll
+E:\VS\Test\YoungGame\YoungGame\bin\Release\YoungGame.pdb
+E:\VS\Test\YoungGame\YoungGame\obj\Release\YoungGame.dll
+E:\VS\Test\YoungGame\YoungGame\obj\Release\YoungGame.pdb
+E:\VS\Test\YoungGame\YoungGame\obj\Release\YoungGame.csprojResolveAssemblyReference.cache

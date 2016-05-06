@@ -1,0 +1,10 @@
+E:\VS\Test\YoungGame\YoungGame\bin\Debug\YoungGame.dll
+E:\VS\Test\YoungGame\YoungGame\bin\Debug\YoungGame.pdb
+E:\VS\Test\YoungGame\YoungGame\obj\Debug\ResolveAssemblyReference.cache
+E:\VS\Test\YoungGame\YoungGame\obj\Debug\YoungGame.dll
+E:\VS\Test\YoungGame\YoungGame\obj\Debug\YoungGame.pdb
+F:\GitHub\Monks\YoungGame\bin\Debug\YoungGame.dll
+F:\GitHub\Monks\YoungGame\bin\Debug\YoungGame.pdb
+F:\GitHub\Monks\YoungGame\obj\Debug\YoungGame.csprojResolveAssemblyReference.cache
+F:\GitHub\Monks\YoungGame\obj\Debug\YoungGame.dll
+F:\GitHub\Monks\YoungGame\obj\Debug\YoungGame.pdb

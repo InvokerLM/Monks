@@ -1,0 +1,13 @@
+E:\VS\Test\YoungGame\Test2\bin\Debug\Test2.exe
+E:\VS\Test\YoungGame\Test2\bin\Debug\Test2.pdb
+E:\VS\Test\YoungGame\Test2\bin\Debug\YoungGame.dll
+E:\VS\Test\YoungGame\Test2\bin\Debug\YoungGame.pdb
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\Test2.Form1.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\Test2.Pio.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\Test2.Properties.Resources.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\Test2.exe
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\Test2.pdb
+E:\VS\Test\YoungGame\Test2\obj\x86\Debug\Test2.MenuForm.resources

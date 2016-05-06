@@ -1,0 +1,16 @@
+E:\VS\Test\YoungGame\Test2\bin\Release\Test2.exe
+E:\VS\Test\YoungGame\Test2\bin\Release\Test2.pdb
+E:\VS\Test\YoungGame\Test2\bin\Release\YoungGame.dll
+E:\VS\Test\YoungGame\Test2\bin\Release\YoungGame.pdb
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\ResolveAssemblyReference.cache
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.Form1.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.MenuForm.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.PassForm.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.Pio.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.Properties.Resources.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\GenerateResource-ResGen.read.1.tlog
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\GenerateResource-ResGen.write.1.tlog
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.exe
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.pdb
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.StyleForm.resources
+E:\VS\Test\YoungGame\Test2\obj\x86\Release\Test2.HelpForm.resources
